@@ -1,0 +1,21 @@
+body{
+	margin-top: 60px;
+}
+.container{
+	background: rgba(128, 128, 128, .75);
+	border-radius: 5%;
+}
+h1, h2{
+	text-align: center;
+}
+.thin-red-border {
+		border: 5px solid rgb(200, 0, 0);
+    	border-radius: 50%;
+}
+ul {
+	list-style-type: none;
+}
+.thumbnail{
+	background-color: transparent;
+	border: 0;
+}
