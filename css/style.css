@@ -2,7 +2,7 @@ body{
 	margin-top: 60px;
 }
 .container{
-	background: rgba(128, 128, 128, .75);
+	background: #ddd;
 	border-radius: 5%;
 }
 h1, h2{
